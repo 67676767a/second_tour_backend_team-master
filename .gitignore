@@ -1,0 +1,7 @@
+.gradle/
+.kotlin/
+build/
+
+# Project exclude paths
+/gradle/
+/src/
